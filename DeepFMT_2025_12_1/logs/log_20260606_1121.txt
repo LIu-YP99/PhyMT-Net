@@ -1,0 +1,2 @@
+Epoch 1 | Train: 1.7574 | Val: 0.9261 (S:1.015)
+Epoch 2 | Train: 0.9235 | Val: 0.9241 (S:1.015)

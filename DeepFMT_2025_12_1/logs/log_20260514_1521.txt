@@ -1,0 +1,7 @@
+Epoch 1 | Train: 3.8171 | Val: 3.6441 (S:1.004)
+Epoch 2 | Train: 2.2238 | Val: 2.5242 (S:1.007)
+Epoch 3 | Train: 1.2348 | Val: 1.2271 (S:1.014)
+Epoch 4 | Train: 0.9338 | Val: 0.9284 (S:1.016)
+Epoch 5 | Train: 0.9208 | Val: 0.9203 (S:1.015)
+Epoch 6 | Train: 0.9181 | Val: 0.9172 (S:1.013)
+Epoch 7 | Train: 0.9138 | Val: 0.9135 (S:1.009)

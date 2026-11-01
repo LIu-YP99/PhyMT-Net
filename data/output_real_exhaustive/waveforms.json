@@ -1,0 +1,2972 @@
+[
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B088",
+    "receiver_lat": 33.37495,
+    "receiver_lon": -116.62052,
+    "waveform_file": "waveforms/202010010031A_PB.B088.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SNR",
+    "receiver_lat": 32.86184,
+    "receiver_lon": -115.43602,
+    "waveform_file": "waveforms/202010010031A_CI.SNR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CKP",
+    "receiver_lat": 33.55507,
+    "receiver_lon": -114.8904,
+    "waveform_file": "waveforms/202010010031A_CI.CKP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LMH",
+    "receiver_lat": 33.74418,
+    "receiver_lon": -117.39135,
+    "waveform_file": "waveforms/202010010031A_CI.LMH.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.IDO",
+    "receiver_lat": 33.79678,
+    "receiver_lon": -116.22152,
+    "waveform_file": "waveforms/202010010031A_CI.IDO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BBR",
+    "receiver_lat": 34.2623,
+    "receiver_lon": -116.92075,
+    "waveform_file": "waveforms/202010010031A_CI.BBR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MSJ",
+    "receiver_lat": 33.80801,
+    "receiver_lon": -116.96789,
+    "waveform_file": "waveforms/202010010031A_CI.MSJ.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BBS",
+    "receiver_lat": 33.92139,
+    "receiver_lon": -116.98058,
+    "waveform_file": "waveforms/202010010031A_CI.BBS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.RITX",
+    "receiver_lat": 32.166,
+    "receiver_lon": -114.96158,
+    "waveform_file": "waveforms/202010010031A_BC.RITX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SDG",
+    "receiver_lat": 32.784,
+    "receiver_lon": -117.13805,
+    "waveform_file": "waveforms/202010010031A_CI.SDG.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CYP",
+    "receiver_lat": 32.906111,
+    "receiver_lon": -116.627222,
+    "waveform_file": "waveforms/202010010031A_CI.CYP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NSS2",
+    "receiver_lat": 33.55553,
+    "receiver_lon": -115.94586,
+    "waveform_file": "waveforms/202010010031A_CI.NSS2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MTG",
+    "receiver_lat": 33.19915,
+    "receiver_lon": -116.64727,
+    "waveform_file": "waveforms/202010010031A_CI.MTG.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.STG",
+    "receiver_lat": 33.664,
+    "receiver_lon": -117.76856,
+    "waveform_file": "waveforms/202010010031A_CI.STG.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SDD",
+    "receiver_lat": 33.55259,
+    "receiver_lon": -117.66171,
+    "waveform_file": "waveforms/202010010031A_CI.SDD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.SND",
+    "receiver_lat": 33.5519,
+    "receiver_lon": -116.6129,
+    "waveform_file": "waveforms/202010010031A_AZ.SND.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.FHO",
+    "receiver_lat": 34.09355,
+    "receiver_lon": -116.93588,
+    "waveform_file": "waveforms/202010010031A_CI.FHO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SLB",
+    "receiver_lat": 33.48519,
+    "receiver_lon": -115.86643,
+    "waveform_file": "waveforms/202010010031A_CI.SLB.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.KNW",
+    "receiver_lat": 33.7141,
+    "receiver_lon": -116.7119,
+    "waveform_file": "waveforms/202010010031A_AZ.KNW.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SRA",
+    "receiver_lat": 34.60601,
+    "receiver_lon": -115.94987,
+    "waveform_file": "waveforms/202010010031A_CI.SRA.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BAR",
+    "receiver_lat": 32.68005,
+    "receiver_lon": -116.67215,
+    "waveform_file": "waveforms/202010010031A_CI.BAR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.GUVIX",
+    "receiver_lat": 32.3029,
+    "receiver_lon": -115.076,
+    "waveform_file": "waveforms/202010010031A_BC.GUVIX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MCT",
+    "receiver_lat": 34.22645,
+    "receiver_lon": -116.04073,
+    "waveform_file": "waveforms/202010010031A_CI.MCT.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.GMR",
+    "receiver_lat": 34.78457,
+    "receiver_lon": -115.65994,
+    "waveform_file": "waveforms/202010010031A_CI.GMR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SWP",
+    "receiver_lat": 32.79184,
+    "receiver_lon": -116.09718,
+    "waveform_file": "waveforms/202010010031A_CI.SWP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SBPX",
+    "receiver_lat": 34.2324,
+    "receiver_lon": -117.23484,
+    "waveform_file": "waveforms/202010010031A_CI.SBPX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B946",
+    "receiver_lat": 33.5373,
+    "receiver_lon": -116.5925,
+    "waveform_file": "waveforms/202010010031A_PB.B946.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.POB2",
+    "receiver_lat": 33.68708,
+    "receiver_lon": -116.92382,
+    "waveform_file": "waveforms/202010010031A_CI.POB2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.SMER",
+    "receiver_lat": 33.4577,
+    "receiver_lon": -117.1708,
+    "waveform_file": "waveforms/202010010031A_AZ.SMER.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1008,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.YUCAX",
+    "receiver_lat": 32.6054,
+    "receiver_lon": -115.0094,
+    "waveform_file": "waveforms/202010010031A_BC.YUCAX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SNO",
+    "receiver_lat": 34.03515,
+    "receiver_lon": -116.80778,
+    "waveform_file": "waveforms/202106051755B_CI.SNO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PALA",
+    "receiver_lat": 33.38905,
+    "receiver_lon": -117.03182,
+    "waveform_file": "waveforms/202106051755B_CI.PALA.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RSS",
+    "receiver_lat": 33.97327,
+    "receiver_lon": -117.32674,
+    "waveform_file": "waveforms/202106051755B_CI.RSS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RUN",
+    "receiver_lat": 32.97222,
+    "receiver_lon": -114.97809,
+    "waveform_file": "waveforms/202106051755B_CI.RUN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BLA2",
+    "receiver_lat": 34.06931,
+    "receiver_lon": -116.38993,
+    "waveform_file": "waveforms/202106051755B_CI.BLA2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CHN",
+    "receiver_lat": 33.99879,
+    "receiver_lon": -117.68044,
+    "waveform_file": "waveforms/202106051755B_CI.CHN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LKH",
+    "receiver_lat": 33.23598,
+    "receiver_lon": -116.75876,
+    "waveform_file": "waveforms/202106051755B_CI.LKH.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CYP",
+    "receiver_lat": 32.906111,
+    "receiver_lon": -116.627222,
+    "waveform_file": "waveforms/202106051755B_CI.CYP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.OLP",
+    "receiver_lat": 32.60771,
+    "receiver_lon": -116.93019,
+    "waveform_file": "waveforms/202106051755B_CI.OLP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.SMER",
+    "receiver_lat": 33.4577,
+    "receiver_lon": -117.1708,
+    "waveform_file": "waveforms/202106051755B_AZ.SMER.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LUC2",
+    "receiver_lat": 34.45638,
+    "receiver_lon": -116.96423,
+    "waveform_file": "waveforms/202106051755B_CI.LUC2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RVR",
+    "receiver_lat": 33.99351,
+    "receiver_lon": -117.37545,
+    "waveform_file": "waveforms/202106051755B_CI.RVR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.VTX",
+    "receiver_lat": 31.3914,
+    "receiver_lon": -115.784,
+    "waveform_file": "waveforms/202106051755B_BC.VTX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DRE",
+    "receiver_lat": 32.80532,
+    "receiver_lon": -115.44679,
+    "waveform_file": "waveforms/202106051755B_CI.DRE.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BBR",
+    "receiver_lat": 34.2623,
+    "receiver_lon": -116.92075,
+    "waveform_file": "waveforms/202106051755B_CI.BBR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SNR",
+    "receiver_lat": 32.86184,
+    "receiver_lon": -115.43602,
+    "waveform_file": "waveforms/202106051755B_CI.SNR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B087",
+    "receiver_lat": 33.4955,
+    "receiver_lon": -116.602667,
+    "waveform_file": "waveforms/202106051755B_PB.B087.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.RITX",
+    "receiver_lat": 32.166,
+    "receiver_lon": -114.96158,
+    "waveform_file": "waveforms/202106051755B_BC.RITX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LYP",
+    "receiver_lat": 32.70333,
+    "receiver_lon": -116.7548,
+    "waveform_file": "waveforms/202106051755B_CI.LYP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B081",
+    "receiver_lat": 33.711167,
+    "receiver_lon": -116.714167,
+    "waveform_file": "waveforms/202106051755B_PB.B081.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BC3",
+    "receiver_lat": 33.65515,
+    "receiver_lon": -115.45366,
+    "waveform_file": "waveforms/202106051755B_CI.BC3.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B093",
+    "receiver_lat": 33.59369,
+    "receiver_lon": -116.7641,
+    "waveform_file": "waveforms/202106051755B_PB.B093.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.COA",
+    "receiver_lat": 32.86341,
+    "receiver_lon": -115.12339,
+    "waveform_file": "waveforms/202106051755B_CI.COA.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.WMD",
+    "receiver_lat": 33.03826,
+    "receiver_lon": -115.58191,
+    "waveform_file": "waveforms/202106051755B_CI.WMD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DEV",
+    "receiver_lat": 33.93597,
+    "receiver_lon": -116.57794,
+    "waveform_file": "waveforms/202106051755B_CI.DEV.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.DOCTX",
+    "receiver_lat": 31.9595,
+    "receiver_lon": -114.7452,
+    "waveform_file": "waveforms/202106051755B_BC.DOCTX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SLR",
+    "receiver_lat": 33.83359,
+    "receiver_lon": -116.79737,
+    "waveform_file": "waveforms/202106051755B_CI.SLR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DGR",
+    "receiver_lat": 33.65001,
+    "receiver_lon": -117.00947,
+    "waveform_file": "waveforms/202106051755B_CI.DGR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BEL",
+    "receiver_lat": 34.0006,
+    "receiver_lon": -115.9982,
+    "waveform_file": "waveforms/202106051755B_CI.BEL.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1009,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B946",
+    "receiver_lat": 33.5373,
+    "receiver_lon": -116.5925,
+    "waveform_file": "waveforms/202106051755B_PB.B946.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DNR",
+    "receiver_lat": 33.56667,
+    "receiver_lon": -116.63056,
+    "waveform_file": "waveforms/202504141708A_CI.DNR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BLY",
+    "receiver_lat": 33.7503,
+    "receiver_lon": -114.52375,
+    "waveform_file": "waveforms/202504141708A_CI.BLY.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B081",
+    "receiver_lat": 33.711167,
+    "receiver_lon": -116.714167,
+    "waveform_file": "waveforms/202504141708A_PB.B081.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.IDY",
+    "receiver_lat": 33.74642,
+    "receiver_lon": -116.71536,
+    "waveform_file": "waveforms/202504141708A_CI.IDY.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.WWF",
+    "receiver_lat": 33.27884,
+    "receiver_lon": -115.57888,
+    "waveform_file": "waveforms/202504141708A_CI.WWF.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.ELS2",
+    "receiver_lat": 33.64907,
+    "receiver_lon": -117.42604,
+    "waveform_file": "waveforms/202504141708A_CI.ELS2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B093",
+    "receiver_lat": 33.59369,
+    "receiver_lon": -116.7641,
+    "waveform_file": "waveforms/202504141708A_PB.B093.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.JARAX",
+    "receiver_lat": 32.5378,
+    "receiver_lon": -115.5815,
+    "waveform_file": "waveforms/202504141708A_BC.JARAX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MGE",
+    "receiver_lat": 33.81841,
+    "receiver_lon": -116.36874,
+    "waveform_file": "waveforms/202504141708A_CI.MGE.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SCI2",
+    "receiver_lat": 32.9799,
+    "receiver_lon": -118.54697,
+    "waveform_file": "waveforms/202504141708A_CI.SCI2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SRN",
+    "receiver_lat": 33.82854,
+    "receiver_lon": -117.78938,
+    "waveform_file": "waveforms/202504141708A_CI.SRN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DRE",
+    "receiver_lat": 32.80532,
+    "receiver_lon": -115.44679,
+    "waveform_file": "waveforms/202504141708A_CI.DRE.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.JPLS",
+    "receiver_lat": 34.2053,
+    "receiver_lon": -118.17368,
+    "waveform_file": "waveforms/202504141708A_CI.JPLS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HYS",
+    "receiver_lat": 34.86532,
+    "receiver_lon": -117.56975,
+    "waveform_file": "waveforms/202504141708A_CI.HYS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.TL2X",
+    "receiver_lat": 32.4481,
+    "receiver_lon": -115.109,
+    "waveform_file": "waveforms/202504141708A_BC.TL2X.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RMM",
+    "receiver_lat": 34.64384,
+    "receiver_lon": -116.62438,
+    "waveform_file": "waveforms/202504141708A_CI.RMM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CHL",
+    "receiver_lat": 33.910841,
+    "receiver_lon": -117.683682,
+    "waveform_file": "waveforms/202504141708A_CI.CHL.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MSC",
+    "receiver_lat": 34.03852,
+    "receiver_lon": -116.64795,
+    "waveform_file": "waveforms/202504141708A_CI.MSC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.IMP",
+    "receiver_lat": 32.90147,
+    "receiver_lon": -115.56071,
+    "waveform_file": "waveforms/202504141708A_CI.IMP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LYP",
+    "receiver_lat": 32.70333,
+    "receiver_lon": -116.7548,
+    "waveform_file": "waveforms/202504141708A_CI.LYP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.ALAMX",
+    "receiver_lat": 32.0075,
+    "receiver_lon": -115.7083,
+    "waveform_file": "waveforms/202504141708A_BC.ALAMX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NBS",
+    "receiver_lat": 34.78035,
+    "receiver_lon": -116.55798,
+    "waveform_file": "waveforms/202504141708A_CI.NBS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LMS",
+    "receiver_lat": 33.81744,
+    "receiver_lon": -117.445,
+    "waveform_file": "waveforms/202504141708A_CI.LMS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.IKP",
+    "receiver_lat": 32.65012,
+    "receiver_lon": -116.10948,
+    "waveform_file": "waveforms/202504141708A_CI.IKP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PASC",
+    "receiver_lat": 34.17141,
+    "receiver_lon": -118.18523,
+    "waveform_file": "waveforms/202504141708A_CI.PASC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CDD",
+    "receiver_lat": 32.58395,
+    "receiver_lon": -114.35617,
+    "waveform_file": "waveforms/202504141708A_CI.CDD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HEC",
+    "receiver_lat": 34.8294,
+    "receiver_lon": -116.335,
+    "waveform_file": "waveforms/202504141708A_CI.HEC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SMF2",
+    "receiver_lat": 34.02201,
+    "receiver_lon": -118.44627,
+    "waveform_file": "waveforms/202504141708A_CI.SMF2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.VTX",
+    "receiver_lat": 31.3914,
+    "receiver_lon": -115.784,
+    "waveform_file": "waveforms/202504141708A_BC.VTX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1010,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.EML",
+    "receiver_lat": 32.89083,
+    "receiver_lon": -116.84566,
+    "waveform_file": "waveforms/202504141708A_CI.EML.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.FHO",
+    "receiver_lat": 34.09355,
+    "receiver_lon": -116.93588,
+    "waveform_file": "waveforms/202004040153B_CI.FHO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.POB2",
+    "receiver_lat": 33.68708,
+    "receiver_lon": -116.92382,
+    "waveform_file": "waveforms/202004040153B_CI.POB2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DEV",
+    "receiver_lat": 33.93597,
+    "receiver_lon": -116.57794,
+    "waveform_file": "waveforms/202004040153B_CI.DEV.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SCI2",
+    "receiver_lat": 32.9799,
+    "receiver_lon": -118.54697,
+    "waveform_file": "waveforms/202004040153B_CI.SCI2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.AVM",
+    "receiver_lat": 35.06562,
+    "receiver_lon": -116.61549,
+    "waveform_file": "waveforms/202004040153B_CI.AVM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B081",
+    "receiver_lat": 33.711167,
+    "receiver_lon": -116.714167,
+    "waveform_file": "waveforms/202004040153B_PB.B081.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SVD",
+    "receiver_lat": 34.10647,
+    "receiver_lon": -117.09822,
+    "waveform_file": "waveforms/202004040153B_CI.SVD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RHC2",
+    "receiver_lat": 34.00095,
+    "receiver_lon": -118.01333,
+    "waveform_file": "waveforms/202004040153B_CI.RHC2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LUS",
+    "receiver_lat": 33.01375,
+    "receiver_lon": -117.16305,
+    "waveform_file": "waveforms/202004040153B_CI.LUS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PLM",
+    "receiver_lat": 33.35361,
+    "receiver_lon": -116.86265,
+    "waveform_file": "waveforms/202004040153B_CI.PLM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SWS",
+    "receiver_lat": 32.94508,
+    "receiver_lon": -115.79988,
+    "waveform_file": "waveforms/202004040153B_CI.SWS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HYS",
+    "receiver_lat": 34.86532,
+    "receiver_lon": -117.56975,
+    "waveform_file": "waveforms/202004040153B_CI.HYS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DZA",
+    "receiver_lat": 32.60657,
+    "receiver_lon": -116.77477,
+    "waveform_file": "waveforms/202004040153B_CI.DZA.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SWP",
+    "receiver_lat": 32.79184,
+    "receiver_lon": -116.09718,
+    "waveform_file": "waveforms/202004040153B_CI.SWP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RPV",
+    "receiver_lat": 33.74346,
+    "receiver_lon": -118.40412,
+    "waveform_file": "waveforms/202004040153B_CI.RPV.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SBB2",
+    "receiver_lat": 34.68844,
+    "receiver_lon": -117.82424,
+    "waveform_file": "waveforms/202004040153B_CI.SBB2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HIW",
+    "receiver_lat": 35.03998,
+    "receiver_lon": -115.38423,
+    "waveform_file": "waveforms/202004040153B_CI.HIW.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B086",
+    "receiver_lat": 33.5575,
+    "receiver_lon": -116.531,
+    "waveform_file": "waveforms/202004040153B_PB.B086.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HEC",
+    "receiver_lat": 34.8294,
+    "receiver_lon": -116.335,
+    "waveform_file": "waveforms/202004040153B_CI.HEC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SOC",
+    "receiver_lat": 33.38761,
+    "receiver_lon": -117.58013,
+    "waveform_file": "waveforms/202004040153B_CI.SOC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.IRM",
+    "receiver_lat": 34.15738,
+    "receiver_lon": -115.14513,
+    "waveform_file": "waveforms/202004040153B_CI.IRM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BC3",
+    "receiver_lat": 33.65515,
+    "receiver_lon": -115.45366,
+    "waveform_file": "waveforms/202004040153B_CI.BC3.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RCR",
+    "receiver_lat": 33.36237,
+    "receiver_lon": -116.3096,
+    "waveform_file": "waveforms/202004040153B_CI.RCR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.LVA2",
+    "receiver_lat": 33.3516,
+    "receiver_lon": -116.5615,
+    "waveform_file": "waveforms/202004040153B_AZ.LVA2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.TJX",
+    "receiver_lat": 32.51017,
+    "receiver_lon": -117.0543,
+    "waveform_file": "waveforms/202004040153B_BC.TJX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LUC2",
+    "receiver_lat": 34.45638,
+    "receiver_lon": -116.96423,
+    "waveform_file": "waveforms/202004040153B_CI.LUC2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.ADO",
+    "receiver_lat": 34.55046,
+    "receiver_lon": -117.43391,
+    "waveform_file": "waveforms/202004040153B_CI.ADO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.THM",
+    "receiver_lat": 33.65066,
+    "receiver_lon": -116.07734,
+    "waveform_file": "waveforms/202004040153B_CI.THM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HLL",
+    "receiver_lat": 34.17643,
+    "receiver_lon": -118.35967,
+    "waveform_file": "waveforms/202004040153B_CI.HLL.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1006,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SNR",
+    "receiver_lat": 32.86184,
+    "receiver_lon": -115.43602,
+    "waveform_file": "waveforms/202004040153B_CI.SNR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.JEM",
+    "receiver_lat": 33.08098,
+    "receiver_lon": -116.59755,
+    "waveform_file": "waveforms/202005102207A_CI.JEM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DAN",
+    "receiver_lat": 34.63745,
+    "receiver_lon": -115.38115,
+    "waveform_file": "waveforms/202005102207A_CI.DAN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LGB",
+    "receiver_lat": 33.9753,
+    "receiver_lon": -118.14918,
+    "waveform_file": "waveforms/202005102207A_CI.LGB.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DGR",
+    "receiver_lat": 33.65001,
+    "receiver_lon": -117.00947,
+    "waveform_file": "waveforms/202005102207A_CI.DGR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DLA",
+    "receiver_lat": 33.84822,
+    "receiver_lon": -118.09624,
+    "waveform_file": "waveforms/202005102207A_CI.DLA.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.TOR",
+    "receiver_lat": 33.57526,
+    "receiver_lon": -116.22584,
+    "waveform_file": "waveforms/202005102207A_CI.TOR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.POB2",
+    "receiver_lat": 33.68708,
+    "receiver_lon": -116.92382,
+    "waveform_file": "waveforms/202005102207A_CI.POB2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SLR",
+    "receiver_lat": 33.83359,
+    "receiver_lon": -116.79737,
+    "waveform_file": "waveforms/202005102207A_CI.SLR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CTC",
+    "receiver_lat": 33.65516,
+    "receiver_lon": -115.99006,
+    "waveform_file": "waveforms/202005102207A_CI.CTC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.COA",
+    "receiver_lat": 32.86341,
+    "receiver_lon": -115.12339,
+    "waveform_file": "waveforms/202005102207A_CI.COA.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.FRK",
+    "receiver_lat": 33.40209,
+    "receiver_lon": -115.63835,
+    "waveform_file": "waveforms/202005102207A_CI.FRK.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RHC2",
+    "receiver_lat": 34.00095,
+    "receiver_lon": -118.01333,
+    "waveform_file": "waveforms/202005102207A_CI.RHC2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RUS",
+    "receiver_lat": 34.05075,
+    "receiver_lon": -118.08078,
+    "waveform_file": "waveforms/202005102207A_CI.RUS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.SMER",
+    "receiver_lat": 33.4577,
+    "receiver_lon": -117.1708,
+    "waveform_file": "waveforms/202005102207A_AZ.SMER.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HMT2",
+    "receiver_lat": 33.708115,
+    "receiver_lon": -117.001524,
+    "waveform_file": "waveforms/202005102207A_CI.HMT2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.PFO",
+    "receiver_lat": 33.6117,
+    "receiver_lon": -116.4594,
+    "waveform_file": "waveforms/202005102207A_AZ.PFO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.CBX",
+    "receiver_lat": 32.3131,
+    "receiver_lon": -116.6636,
+    "waveform_file": "waveforms/202005102207A_BC.CBX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BOR",
+    "receiver_lat": 33.2682,
+    "receiver_lon": -116.41716,
+    "waveform_file": "waveforms/202005102207A_CI.BOR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MUR",
+    "receiver_lat": 33.59999,
+    "receiver_lon": -117.19543,
+    "waveform_file": "waveforms/202005102207A_CI.MUR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DPP",
+    "receiver_lat": 32.99889,
+    "receiver_lon": -116.94187,
+    "waveform_file": "waveforms/202005102207A_CI.DPP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RCR",
+    "receiver_lat": 33.36237,
+    "receiver_lon": -116.3096,
+    "waveform_file": "waveforms/202005102207A_CI.RCR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SLV",
+    "receiver_lat": 33.23854,
+    "receiver_lon": -115.30436,
+    "waveform_file": "waveforms/202005102207A_CI.SLV.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CYP",
+    "receiver_lat": 32.906111,
+    "receiver_lon": -116.627222,
+    "waveform_file": "waveforms/202005102207A_CI.CYP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.STS",
+    "receiver_lat": 33.79033,
+    "receiver_lon": -118.19878,
+    "waveform_file": "waveforms/202005102207A_CI.STS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.DOCTX",
+    "receiver_lat": 31.9595,
+    "receiver_lon": -114.7452,
+    "waveform_file": "waveforms/202005102207A_BC.DOCTX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.SND",
+    "receiver_lat": 33.5519,
+    "receiver_lon": -116.6129,
+    "waveform_file": "waveforms/202005102207A_AZ.SND.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LYP",
+    "receiver_lat": 32.70333,
+    "receiver_lon": -116.7548,
+    "waveform_file": "waveforms/202005102207A_CI.LYP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CDD",
+    "receiver_lat": 32.58395,
+    "receiver_lon": -114.35617,
+    "waveform_file": "waveforms/202005102207A_CI.CDD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PSD",
+    "receiver_lat": 33.82393,
+    "receiver_lon": -116.55026,
+    "waveform_file": "waveforms/202005102207A_CI.PSD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1007,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NSS2",
+    "receiver_lat": 33.55553,
+    "receiver_lon": -115.94586,
+    "waveform_file": "waveforms/202005102207A_CI.NSS2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PER",
+    "receiver_lat": 33.86164,
+    "receiver_lon": -117.20529,
+    "waveform_file": "waveforms/201606100804B_CI.PER.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BRE",
+    "receiver_lat": 33.80776,
+    "receiver_lon": -117.98116,
+    "waveform_file": "waveforms/201606100804B_CI.BRE.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B084",
+    "receiver_lat": 33.61157,
+    "receiver_lon": -116.45637,
+    "waveform_file": "waveforms/201606100804B_PB.B084.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SWS",
+    "receiver_lat": 32.94508,
+    "receiver_lon": -115.79988,
+    "waveform_file": "waveforms/201606100804B_CI.SWS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.WMD",
+    "receiver_lat": 33.03826,
+    "receiver_lon": -115.58191,
+    "waveform_file": "waveforms/201606100804B_CI.WMD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RIO",
+    "receiver_lat": 34.10473,
+    "receiver_lon": -117.97956,
+    "waveform_file": "waveforms/201606100804B_CI.RIO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HEC",
+    "receiver_lat": 34.8294,
+    "receiver_lon": -116.335,
+    "waveform_file": "waveforms/201606100804B_CI.HEC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.OLP",
+    "receiver_lat": 32.60771,
+    "receiver_lon": -116.93019,
+    "waveform_file": "waveforms/201606100804B_CI.OLP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B086",
+    "receiver_lat": 33.5575,
+    "receiver_lon": -116.531,
+    "waveform_file": "waveforms/201606100804B_PB.B086.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "TA.109C",
+    "receiver_lat": 32.888901,
+    "receiver_lon": -117.105103,
+    "waveform_file": "waveforms/201606100804B_TA.109C.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BLA2",
+    "receiver_lat": 34.06931,
+    "receiver_lon": -116.38993,
+    "waveform_file": "waveforms/201606100804B_CI.BLA2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.WMC",
+    "receiver_lat": 33.5736,
+    "receiver_lon": -116.6747,
+    "waveform_file": "waveforms/201606100804B_AZ.WMC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BLY",
+    "receiver_lat": 33.7503,
+    "receiver_lon": -114.52375,
+    "waveform_file": "waveforms/201606100804B_CI.BLY.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MUR",
+    "receiver_lat": 33.59999,
+    "receiver_lon": -117.19543,
+    "waveform_file": "waveforms/201606100804B_CI.MUR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DJJ",
+    "receiver_lat": 34.10618,
+    "receiver_lon": -118.45505,
+    "waveform_file": "waveforms/201606100804B_CI.DJJ.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DSN6",
+    "receiver_lat": 34.17141,
+    "receiver_lon": -118.18523,
+    "waveform_file": "waveforms/201606100804B_CI.DSN6.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SNO",
+    "receiver_lat": 34.03515,
+    "receiver_lon": -116.80778,
+    "waveform_file": "waveforms/201606100804B_CI.SNO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B088",
+    "receiver_lat": 33.37495,
+    "receiver_lon": -116.62052,
+    "waveform_file": "waveforms/201606100804B_PB.B088.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SLB",
+    "receiver_lat": 33.48519,
+    "receiver_lon": -115.86643,
+    "waveform_file": "waveforms/201606100804B_CI.SLB.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.FMP",
+    "receiver_lat": 33.71264,
+    "receiver_lon": -118.29381,
+    "waveform_file": "waveforms/201606100804B_CI.FMP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.TRO",
+    "receiver_lat": 33.5234,
+    "receiver_lon": -116.4257,
+    "waveform_file": "waveforms/201606100804B_AZ.TRO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BBS",
+    "receiver_lat": 33.92139,
+    "receiver_lon": -116.98058,
+    "waveform_file": "waveforms/201606100804B_CI.BBS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PDR",
+    "receiver_lat": 33.96273,
+    "receiver_lon": -118.43702,
+    "waveform_file": "waveforms/201606100804B_CI.PDR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HAY",
+    "receiver_lat": 33.70734,
+    "receiver_lon": -115.63889,
+    "waveform_file": "waveforms/201606100804B_CI.HAY.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RAG",
+    "receiver_lat": 34.68289,
+    "receiver_lon": -116.15139,
+    "waveform_file": "waveforms/201606100804B_CI.RAG.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.WSS",
+    "receiver_lat": 34.1717,
+    "receiver_lon": -118.64971,
+    "waveform_file": "waveforms/201606100804B_CI.WSS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SBPX",
+    "receiver_lat": 34.2324,
+    "receiver_lon": -117.23484,
+    "waveform_file": "waveforms/201606100804B_CI.SBPX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.ERR",
+    "receiver_lat": 33.11652,
+    "receiver_lon": -115.82273,
+    "waveform_file": "waveforms/201606100804B_CI.ERR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DEC",
+    "receiver_lat": 34.25353,
+    "receiver_lon": -118.33383,
+    "waveform_file": "waveforms/201606100804B_CI.DEC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1005,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.EDW2",
+    "receiver_lat": 34.8811,
+    "receiver_lon": -117.99388,
+    "waveform_file": "waveforms/201606100804B_CI.EDW2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.STS",
+    "receiver_lat": 33.79033,
+    "receiver_lon": -118.19878,
+    "waveform_file": "waveforms/201007072353A_CI.STS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BAR",
+    "receiver_lat": 32.68005,
+    "receiver_lon": -116.67215,
+    "waveform_file": "waveforms/201007072353A_CI.BAR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RSS",
+    "receiver_lat": 33.97327,
+    "receiver_lon": -117.32674,
+    "waveform_file": "waveforms/201007072353A_CI.RSS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DGR",
+    "receiver_lat": 33.65001,
+    "receiver_lon": -117.00947,
+    "waveform_file": "waveforms/201007072353A_CI.DGR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SBPX",
+    "receiver_lat": 34.2324,
+    "receiver_lon": -117.23484,
+    "waveform_file": "waveforms/201007072353A_CI.SBPX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.WSS",
+    "receiver_lat": 34.1717,
+    "receiver_lon": -118.64971,
+    "waveform_file": "waveforms/201007072353A_CI.WSS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DEV",
+    "receiver_lat": 33.93597,
+    "receiver_lon": -116.57794,
+    "waveform_file": "waveforms/201007072353A_CI.DEV.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RIN",
+    "receiver_lat": 34.28196,
+    "receiver_lon": -118.47925,
+    "waveform_file": "waveforms/201007072353A_CI.RIN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.TOR",
+    "receiver_lat": 33.57526,
+    "receiver_lon": -116.22584,
+    "waveform_file": "waveforms/201007072353A_CI.TOR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BC3",
+    "receiver_lat": 33.65515,
+    "receiver_lon": -115.45366,
+    "waveform_file": "waveforms/201007072353A_CI.BC3.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.WES",
+    "receiver_lat": 32.75904,
+    "receiver_lon": -115.73161,
+    "waveform_file": "waveforms/201007072353A_CI.WES.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.CRY",
+    "receiver_lat": 33.5654,
+    "receiver_lon": -116.7373,
+    "waveform_file": "waveforms/201007072353A_AZ.CRY.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.JVA",
+    "receiver_lat": 34.36622,
+    "receiver_lon": -116.61266,
+    "waveform_file": "waveforms/201007072353A_CI.JVA.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BFS",
+    "receiver_lat": 34.23883,
+    "receiver_lon": -117.65853,
+    "waveform_file": "waveforms/201007072353A_CI.BFS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MSC",
+    "receiver_lat": 34.03852,
+    "receiver_lon": -116.64795,
+    "waveform_file": "waveforms/201007072353A_CI.MSC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LLS",
+    "receiver_lat": 33.68447,
+    "receiver_lon": -117.94304,
+    "waveform_file": "waveforms/201007072353A_CI.LLS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.GMR",
+    "receiver_lat": 34.78457,
+    "receiver_lon": -115.65994,
+    "waveform_file": "waveforms/201007072353A_CI.GMR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B081",
+    "receiver_lat": 33.711167,
+    "receiver_lon": -116.714167,
+    "waveform_file": "waveforms/201007072353A_PB.B081.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DPP",
+    "receiver_lat": 32.99889,
+    "receiver_lon": -116.94187,
+    "waveform_file": "waveforms/201007072353A_CI.DPP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B087",
+    "receiver_lat": 33.4955,
+    "receiver_lon": -116.602667,
+    "waveform_file": "waveforms/201007072353A_PB.B087.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BTC",
+    "receiver_lat": 33.01213,
+    "receiver_lon": -115.21987,
+    "waveform_file": "waveforms/201007072353A_CI.BTC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SDR",
+    "receiver_lat": 32.73561,
+    "receiver_lon": -116.94241,
+    "waveform_file": "waveforms/201007072353A_CI.SDR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PLS",
+    "receiver_lat": 33.7953,
+    "receiver_lon": -117.60906,
+    "waveform_file": "waveforms/201007072353A_CI.PLS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SMS",
+    "receiver_lat": 34.01438,
+    "receiver_lon": -118.45617,
+    "waveform_file": "waveforms/201007072353A_CI.SMS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.LVA2",
+    "receiver_lat": 33.3516,
+    "receiver_lon": -116.5615,
+    "waveform_file": "waveforms/201007072353A_AZ.LVA2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "BC.CBX",
+    "receiver_lat": 32.3131,
+    "receiver_lon": -116.6636,
+    "waveform_file": "waveforms/201007072353A_BC.CBX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HLL",
+    "receiver_lat": 34.17643,
+    "receiver_lon": -118.35967,
+    "waveform_file": "waveforms/201007072353A_CI.HLL.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SVD",
+    "receiver_lat": 34.10647,
+    "receiver_lon": -117.09822,
+    "waveform_file": "waveforms/201007072353A_CI.SVD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RRX",
+    "receiver_lat": 34.87499,
+    "receiver_lon": -116.99681,
+    "waveform_file": "waveforms/201007072353A_CI.RRX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1004,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B084",
+    "receiver_lat": 33.61157,
+    "receiver_lon": -116.45637,
+    "waveform_file": "waveforms/201007072353A_PB.B084.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BTC",
+    "receiver_lat": 33.01213,
+    "receiver_lon": -115.21987,
+    "waveform_file": "waveforms/200903241155A_CI.BTC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NSS2",
+    "receiver_lat": 33.55553,
+    "receiver_lon": -115.94586,
+    "waveform_file": "waveforms/200903241155A_CI.NSS2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.THM",
+    "receiver_lat": 33.65066,
+    "receiver_lon": -116.07734,
+    "waveform_file": "waveforms/200903241155A_CI.THM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.MONP2",
+    "receiver_lat": 32.892,
+    "receiver_lon": -116.4223,
+    "waveform_file": "waveforms/200903241155A_AZ.MONP2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.ADO",
+    "receiver_lat": 34.55046,
+    "receiver_lon": -117.43391,
+    "waveform_file": "waveforms/200903241155A_CI.ADO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.TA2",
+    "receiver_lat": 34.38203,
+    "receiver_lon": -117.67822,
+    "waveform_file": "waveforms/200903241155A_CI.TA2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SRN",
+    "receiver_lat": 33.82854,
+    "receiver_lon": -117.78938,
+    "waveform_file": "waveforms/200903241155A_CI.SRN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.CPE",
+    "receiver_lat": 32.8889,
+    "receiver_lon": -117.1051,
+    "waveform_file": "waveforms/200903241155A_AZ.CPE.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.IRM",
+    "receiver_lat": 34.15738,
+    "receiver_lon": -115.14513,
+    "waveform_file": "waveforms/200903241155A_CI.IRM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DGR",
+    "receiver_lat": 33.65001,
+    "receiver_lon": -117.00947,
+    "waveform_file": "waveforms/200903241155A_CI.DGR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.SOL",
+    "receiver_lat": 32.841,
+    "receiver_lon": -117.248,
+    "waveform_file": "waveforms/200903241155A_AZ.SOL.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PLS",
+    "receiver_lat": 33.7953,
+    "receiver_lon": -117.60906,
+    "waveform_file": "waveforms/200903241155A_CI.PLS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NEE2",
+    "receiver_lat": 34.76759,
+    "receiver_lon": -114.61881,
+    "waveform_file": "waveforms/200903241155A_CI.NEE2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CHN",
+    "receiver_lat": 33.99879,
+    "receiver_lon": -117.68044,
+    "waveform_file": "waveforms/200903241155A_CI.CHN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RRX",
+    "receiver_lat": 34.87499,
+    "receiver_lon": -116.99681,
+    "waveform_file": "waveforms/200903241155A_CI.RRX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B087",
+    "receiver_lat": 33.4955,
+    "receiver_lon": -116.602667,
+    "waveform_file": "waveforms/200903241155A_PB.B087.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DPP",
+    "receiver_lat": 32.99889,
+    "receiver_lon": -116.94187,
+    "waveform_file": "waveforms/200903241155A_CI.DPP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.OLI",
+    "receiver_lat": 33.94539,
+    "receiver_lon": -117.92372,
+    "waveform_file": "waveforms/200903241155A_CI.OLI.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DVT",
+    "receiver_lat": 32.65915,
+    "receiver_lon": -116.10061,
+    "waveform_file": "waveforms/200903241155A_CI.DVT.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.BZN",
+    "receiver_lat": 33.4915,
+    "receiver_lon": -116.667,
+    "waveform_file": "waveforms/200903241155A_AZ.BZN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SLR",
+    "receiver_lat": 33.83359,
+    "receiver_lon": -116.79737,
+    "waveform_file": "waveforms/200903241155A_CI.SLR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "PB.B088",
+    "receiver_lat": 33.37495,
+    "receiver_lon": -116.62052,
+    "waveform_file": "waveforms/200903241155A_PB.B088.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PDM",
+    "receiver_lat": 34.30336,
+    "receiver_lon": -114.14152,
+    "waveform_file": "waveforms/200903241155A_CI.PDM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SBPX",
+    "receiver_lat": 34.2324,
+    "receiver_lon": -117.23484,
+    "waveform_file": "waveforms/200903241155A_CI.SBPX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PLM",
+    "receiver_lat": 33.35361,
+    "receiver_lon": -116.86265,
+    "waveform_file": "waveforms/200903241155A_CI.PLM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PDU",
+    "receiver_lat": 34.1207,
+    "receiver_lon": -117.63808,
+    "waveform_file": "waveforms/200903241155A_CI.PDU.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RSS",
+    "receiver_lat": 33.97327,
+    "receiver_lon": -117.32674,
+    "waveform_file": "waveforms/200903241155A_CI.RSS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.CRY",
+    "receiver_lat": 33.5654,
+    "receiver_lon": -116.7373,
+    "waveform_file": "waveforms/200903241155A_AZ.CRY.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HEC",
+    "receiver_lat": 34.8294,
+    "receiver_lon": -116.335,
+    "waveform_file": "waveforms/200903241155A_CI.HEC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1003,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SDD",
+    "receiver_lat": 33.55259,
+    "receiver_lon": -117.66171,
+    "waveform_file": "waveforms/200903241155A_CI.SDD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.BZN",
+    "receiver_lat": 33.4915,
+    "receiver_lon": -116.667,
+    "waveform_file": "waveforms/200509020127A_AZ.BZN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DPP",
+    "receiver_lat": 32.99889,
+    "receiver_lon": -116.94187,
+    "waveform_file": "waveforms/200509020127A_CI.DPP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CAP",
+    "receiver_lat": 33.38822,
+    "receiver_lon": -117.19495,
+    "waveform_file": "waveforms/200509020127A_CI.CAP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RXH",
+    "receiver_lat": 33.18313,
+    "receiver_lon": -115.62257,
+    "waveform_file": "waveforms/200509020127A_CI.RXH.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.JCS",
+    "receiver_lat": 33.0859,
+    "receiver_lon": -116.5959,
+    "waveform_file": "waveforms/200509020127A_CI.JCS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MLS",
+    "receiver_lat": 34.0046,
+    "receiver_lon": -117.56162,
+    "waveform_file": "waveforms/200509020127A_CI.MLS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.MONP",
+    "receiver_lat": 32.8927,
+    "receiver_lon": -116.4225,
+    "waveform_file": "waveforms/200509020127A_AZ.MONP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SDG",
+    "receiver_lat": 32.784,
+    "receiver_lon": -117.13805,
+    "waveform_file": "waveforms/200509020127A_CI.SDG.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.FRD",
+    "receiver_lat": 33.4947,
+    "receiver_lon": -116.6022,
+    "waveform_file": "waveforms/200509020127A_AZ.FRD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NSS2",
+    "receiver_lat": 33.55553,
+    "receiver_lon": -115.94586,
+    "waveform_file": "waveforms/200509020127A_CI.NSS2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PSD",
+    "receiver_lat": 33.82393,
+    "receiver_lon": -116.55026,
+    "waveform_file": "waveforms/200509020127A_CI.PSD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RVR",
+    "receiver_lat": 33.99351,
+    "receiver_lon": -117.37545,
+    "waveform_file": "waveforms/200509020127A_CI.RVR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.YAQ",
+    "receiver_lat": 33.1666,
+    "receiver_lon": -116.3539,
+    "waveform_file": "waveforms/200509020127A_AZ.YAQ.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BTC",
+    "receiver_lat": 33.01213,
+    "receiver_lon": -115.21987,
+    "waveform_file": "waveforms/200509020127A_CI.BTC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BBR",
+    "receiver_lat": 34.2623,
+    "receiver_lon": -116.92075,
+    "waveform_file": "waveforms/200509020127A_CI.BBR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NEE",
+    "receiver_lat": 34.8249,
+    "receiver_lon": -114.59941,
+    "waveform_file": "waveforms/200509020127A_CI.NEE.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SRN",
+    "receiver_lat": 33.82854,
+    "receiver_lon": -117.78938,
+    "waveform_file": "waveforms/200509020127A_CI.SRN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SLR",
+    "receiver_lat": 33.83359,
+    "receiver_lon": -116.79737,
+    "waveform_file": "waveforms/200509020127A_CI.SLR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SVD",
+    "receiver_lat": 34.10647,
+    "receiver_lon": -117.09822,
+    "waveform_file": "waveforms/200509020127A_CI.SVD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DRE",
+    "receiver_lat": 32.80532,
+    "receiver_lon": -115.44679,
+    "waveform_file": "waveforms/200509020127A_CI.DRE.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SBPX",
+    "receiver_lat": 34.2324,
+    "receiver_lon": -117.23484,
+    "waveform_file": "waveforms/200509020127A_CI.SBPX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.PMD",
+    "receiver_lat": 33.64785,
+    "receiver_lon": -116.37769,
+    "waveform_file": "waveforms/200509020127A_CI.PMD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "NR.NE70",
+    "receiver_lat": 32.42095,
+    "receiver_lon": -115.26078,
+    "waveform_file": "waveforms/200509020127A_NR.NE70.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.GOR",
+    "receiver_lat": 33.1537,
+    "receiver_lon": -117.22921,
+    "waveform_file": "waveforms/200509020127A_CI.GOR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.SOL",
+    "receiver_lat": 32.841,
+    "receiver_lon": -117.248,
+    "waveform_file": "waveforms/200509020127A_AZ.SOL.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CLT",
+    "receiver_lat": 34.09284,
+    "receiver_lon": -117.31687,
+    "waveform_file": "waveforms/200509020127A_CI.CLT.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.STG",
+    "receiver_lat": 33.664,
+    "receiver_lon": -117.76856,
+    "waveform_file": "waveforms/200509020127A_CI.STG.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.ERR",
+    "receiver_lat": 33.11675,
+    "receiver_lon": -115.82267,
+    "waveform_file": "waveforms/200509020127A_CI.ERR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BLY",
+    "receiver_lat": 33.7503,
+    "receiver_lon": -114.52375,
+    "waveform_file": "waveforms/200509020127A_CI.BLY.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1002,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.EML",
+    "receiver_lat": 32.89083,
+    "receiver_lon": -116.84566,
+    "waveform_file": "waveforms/200509020127A_CI.EML.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BLA",
+    "receiver_lat": 34.06948,
+    "receiver_lon": -116.38896,
+    "waveform_file": "waveforms/200506121541A_CI.BLA.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.HWB",
+    "receiver_lat": 33.0262,
+    "receiver_lon": -116.9596,
+    "waveform_file": "waveforms/200506121541A_AZ.HWB.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.TOV",
+    "receiver_lat": 34.15607,
+    "receiver_lon": -118.82039,
+    "waveform_file": "waveforms/200506121541A_CI.TOV.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SDG",
+    "receiver_lat": 32.784,
+    "receiver_lon": -117.13805,
+    "waveform_file": "waveforms/200506121541A_CI.SDG.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DAN",
+    "receiver_lat": 34.63745,
+    "receiver_lon": -115.38115,
+    "waveform_file": "waveforms/200506121541A_CI.DAN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BEL",
+    "receiver_lat": 34.0006,
+    "receiver_lon": -115.9982,
+    "waveform_file": "waveforms/200506121541A_CI.BEL.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LUG",
+    "receiver_lat": 34.3656,
+    "receiver_lon": -117.36683,
+    "waveform_file": "waveforms/200506121541A_CI.LUG.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RIO",
+    "receiver_lat": 34.10473,
+    "receiver_lon": -117.97956,
+    "waveform_file": "waveforms/200506121541A_CI.RIO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LMR2",
+    "receiver_lat": 34.93439,
+    "receiver_lon": -117.69629,
+    "waveform_file": "waveforms/200506121541A_CI.LMR2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BOR",
+    "receiver_lat": 33.2682,
+    "receiver_lon": -116.41716,
+    "waveform_file": "waveforms/200506121541A_CI.BOR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.EDW2",
+    "receiver_lat": 34.8811,
+    "receiver_lon": -117.99388,
+    "waveform_file": "waveforms/200506121541A_CI.EDW2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RSS",
+    "receiver_lat": 33.97327,
+    "receiver_lon": -117.32674,
+    "waveform_file": "waveforms/200506121541A_CI.RSS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.MLS",
+    "receiver_lat": 34.0046,
+    "receiver_lon": -117.56162,
+    "waveform_file": "waveforms/200506121541A_CI.MLS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LAF",
+    "receiver_lat": 33.86889,
+    "receiver_lon": -118.33143,
+    "waveform_file": "waveforms/200506121541A_CI.LAF.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.THX",
+    "receiver_lat": 33.63495,
+    "receiver_lon": -116.16402,
+    "waveform_file": "waveforms/200506121541A_CI.THX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RRX",
+    "receiver_lat": 34.87499,
+    "receiver_lon": -116.99681,
+    "waveform_file": "waveforms/200506121541A_CI.RRX.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.IRM",
+    "receiver_lat": 34.15738,
+    "receiver_lon": -115.14513,
+    "waveform_file": "waveforms/200506121541A_CI.IRM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RUS",
+    "receiver_lat": 34.05075,
+    "receiver_lon": -118.08078,
+    "waveform_file": "waveforms/200506121541A_CI.RUS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SPF",
+    "receiver_lat": 34.05933,
+    "receiver_lon": -118.64614,
+    "waveform_file": "waveforms/200506121541A_CI.SPF.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "NR.NE70",
+    "receiver_lat": 32.42095,
+    "receiver_lon": -115.26078,
+    "waveform_file": "waveforms/200506121541A_NR.NE70.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BAR",
+    "receiver_lat": 32.68005,
+    "receiver_lon": -116.67215,
+    "waveform_file": "waveforms/200506121541A_CI.BAR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.ADO",
+    "receiver_lat": 34.55046,
+    "receiver_lon": -117.43391,
+    "waveform_file": "waveforms/200506121541A_CI.ADO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SDR",
+    "receiver_lat": 32.73561,
+    "receiver_lon": -116.94241,
+    "waveform_file": "waveforms/200506121541A_CI.SDR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.BZN",
+    "receiver_lat": 33.4915,
+    "receiver_lon": -116.667,
+    "waveform_file": "waveforms/200506121541A_AZ.BZN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NSS2",
+    "receiver_lat": 33.55553,
+    "receiver_lon": -115.94586,
+    "waveform_file": "waveforms/200506121541A_CI.NSS2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DPP",
+    "receiver_lat": 32.99889,
+    "receiver_lon": -116.94187,
+    "waveform_file": "waveforms/200506121541A_CI.DPP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CAP",
+    "receiver_lat": 33.38822,
+    "receiver_lon": -117.19495,
+    "waveform_file": "waveforms/200506121541A_CI.CAP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DJJ",
+    "receiver_lat": 34.10618,
+    "receiver_lon": -118.45505,
+    "waveform_file": "waveforms/200506121541A_CI.DJJ.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.ALP",
+    "receiver_lat": 34.68708,
+    "receiver_lon": -118.29946,
+    "waveform_file": "waveforms/200506121541A_CI.ALP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1000,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DVT",
+    "receiver_lat": 32.65915,
+    "receiver_lon": -116.10061,
+    "waveform_file": "waveforms/200506121541A_CI.DVT.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CCC",
+    "receiver_lat": 35.52495,
+    "receiver_lon": -117.36453,
+    "waveform_file": "waveforms/200506162053A_CI.CCC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.CRY",
+    "receiver_lat": 33.5654,
+    "receiver_lon": -116.7373,
+    "waveform_file": "waveforms/200506162053A_AZ.CRY.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BOR",
+    "receiver_lat": 33.2682,
+    "receiver_lon": -116.41716,
+    "waveform_file": "waveforms/200506162053A_CI.BOR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BC3",
+    "receiver_lat": 33.65515,
+    "receiver_lon": -115.45366,
+    "waveform_file": "waveforms/200506162053A_CI.BC3.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SVD",
+    "receiver_lat": 34.10647,
+    "receiver_lon": -117.09822,
+    "waveform_file": "waveforms/200506162053A_CI.SVD.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.FMP",
+    "receiver_lat": 33.71264,
+    "receiver_lon": -118.29381,
+    "waveform_file": "waveforms/200506162053A_CI.FMP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.RIN",
+    "receiver_lat": 34.28196,
+    "receiver_lon": -118.47925,
+    "waveform_file": "waveforms/200506162053A_CI.RIN.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NSS2",
+    "receiver_lat": 33.55553,
+    "receiver_lon": -115.94586,
+    "waveform_file": "waveforms/200506162053A_CI.NSS2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SDG",
+    "receiver_lat": 32.784,
+    "receiver_lon": -117.13805,
+    "waveform_file": "waveforms/200506162053A_CI.SDG.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "TA.109C",
+    "receiver_lat": 32.888901,
+    "receiver_lon": -117.105103,
+    "waveform_file": "waveforms/200506162053A_TA.109C.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BAR",
+    "receiver_lat": 32.68005,
+    "receiver_lon": -116.67215,
+    "waveform_file": "waveforms/200506162053A_CI.BAR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SCI2",
+    "receiver_lat": 32.9799,
+    "receiver_lon": -118.54697,
+    "waveform_file": "waveforms/200506162053A_CI.SCI2.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.ARV",
+    "receiver_lat": 35.1269,
+    "receiver_lon": -118.83009,
+    "waveform_file": "waveforms/200506162053A_CI.ARV.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BFS",
+    "receiver_lat": 34.23883,
+    "receiver_lon": -117.65853,
+    "waveform_file": "waveforms/200506162053A_CI.BFS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CIA",
+    "receiver_lat": 33.401898,
+    "receiver_lon": -118.415021,
+    "waveform_file": "waveforms/200506162053A_CI.CIA.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.SND",
+    "receiver_lat": 33.5519,
+    "receiver_lon": -116.6129,
+    "waveform_file": "waveforms/200506162053A_AZ.SND.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SLR",
+    "receiver_lat": 33.83359,
+    "receiver_lon": -116.79737,
+    "waveform_file": "waveforms/200506162053A_CI.SLR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.NBS",
+    "receiver_lat": 34.78035,
+    "receiver_lon": -116.55798,
+    "waveform_file": "waveforms/200506162053A_CI.NBS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.IRM",
+    "receiver_lat": 34.15738,
+    "receiver_lon": -115.14513,
+    "waveform_file": "waveforms/200506162053A_CI.IRM.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SMS",
+    "receiver_lat": 34.01438,
+    "receiver_lon": -118.45617,
+    "waveform_file": "waveforms/200506162053A_CI.SMS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SDR",
+    "receiver_lat": 32.73561,
+    "receiver_lon": -116.94241,
+    "waveform_file": "waveforms/200506162053A_CI.SDR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.WBS",
+    "receiver_lat": 35.53664,
+    "receiver_lon": -118.14035,
+    "waveform_file": "waveforms/200506162053A_CI.WBS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.HEC",
+    "receiver_lat": 34.8294,
+    "receiver_lon": -116.335,
+    "waveform_file": "waveforms/200506162053A_CI.HEC.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.LLS",
+    "receiver_lat": 33.68447,
+    "receiver_lon": -117.94304,
+    "waveform_file": "waveforms/200506162053A_CI.LLS.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "AZ.PFO",
+    "receiver_lat": 33.6117,
+    "receiver_lon": -116.4594,
+    "waveform_file": "waveforms/200506162053A_AZ.PFO.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.DNR",
+    "receiver_lat": 33.56667,
+    "receiver_lon": -116.63056,
+    "waveform_file": "waveforms/200506162053A_CI.DNR.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.CAP",
+    "receiver_lat": 33.38822,
+    "receiver_lon": -117.19495,
+    "waveform_file": "waveforms/200506162053A_CI.CAP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BEL",
+    "receiver_lat": 34.0006,
+    "receiver_lon": -115.9982,
+    "waveform_file": "waveforms/200506162053A_CI.BEL.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.BTP",
+    "receiver_lat": 34.68224,
+    "receiver_lon": -118.57398,
+    "waveform_file": "waveforms/200506162053A_CI.BTP.mseed",
+    "split": "test"
+  },
+  {
+    "grid_point_idx": 1001,
+    "mechanism_idx": 0,
+    "receiver_code": "CI.SBB2",
+    "receiver_lat": 34.68844,
+    "receiver_lon": -117.82424,
+    "waveform_file": "waveforms/200506162053A_CI.SBB2.mseed",
+    "split": "test"
+  }
+]

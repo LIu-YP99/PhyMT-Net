@@ -1,0 +1,1255 @@
+{
+  "PB.B088": {
+    "network": "PB",
+    "station": "B088",
+    "lat": 33.37495,
+    "lon": -116.62052,
+    "elevation": 1403.9
+  },
+  "CI.SNR": {
+    "network": "CI",
+    "station": "SNR",
+    "lat": 32.86184,
+    "lon": -115.43602,
+    "elevation": -63.0
+  },
+  "CI.CKP": {
+    "network": "CI",
+    "station": "CKP",
+    "lat": 33.55507,
+    "lon": -114.8904,
+    "elevation": 145.0
+  },
+  "CI.LMH": {
+    "network": "CI",
+    "station": "LMH",
+    "lat": 33.74418,
+    "lon": -117.39135,
+    "elevation": 496.0
+  },
+  "CI.IDO": {
+    "network": "CI",
+    "station": "IDO",
+    "lat": 33.79678,
+    "lon": -116.22152,
+    "elevation": 469.0
+  },
+  "CI.BBR": {
+    "network": "CI",
+    "station": "BBR",
+    "lat": 34.2623,
+    "lon": -116.92075,
+    "elevation": 2069.0
+  },
+  "CI.MSJ": {
+    "network": "CI",
+    "station": "MSJ",
+    "lat": 33.80801,
+    "lon": -116.96789,
+    "elevation": 466.0
+  },
+  "CI.BBS": {
+    "network": "CI",
+    "station": "BBS",
+    "lat": 33.92139,
+    "lon": -116.98058,
+    "elevation": 785.0
+  },
+  "BC.RITX": {
+    "network": "BC",
+    "station": "RITX",
+    "lat": 32.166,
+    "lon": -114.96158,
+    "elevation": 9.0
+  },
+  "CI.SDG": {
+    "network": "CI",
+    "station": "SDG",
+    "lat": 32.784,
+    "lon": -117.13805,
+    "elevation": 101.0
+  },
+  "CI.CYP": {
+    "network": "CI",
+    "station": "CYP",
+    "lat": 32.906111,
+    "lon": -116.627222,
+    "elevation": 1013.7
+  },
+  "CI.NSS2": {
+    "network": "CI",
+    "station": "NSS2",
+    "lat": 33.55553,
+    "lon": -115.94586,
+    "elevation": 17.0
+  },
+  "CI.MTG": {
+    "network": "CI",
+    "station": "MTG",
+    "lat": 33.19915,
+    "lon": -116.64727,
+    "elevation": 1092.0
+  },
+  "CI.STG": {
+    "network": "CI",
+    "station": "STG",
+    "lat": 33.664,
+    "lon": -117.76856,
+    "elevation": 49.0
+  },
+  "CI.SDD": {
+    "network": "CI",
+    "station": "SDD",
+    "lat": 33.55259,
+    "lon": -117.66171,
+    "elevation": 120.0
+  },
+  "AZ.SND": {
+    "network": "AZ",
+    "station": "SND",
+    "lat": 33.5519,
+    "lon": -116.6129,
+    "elevation": 1358.0
+  },
+  "CI.FHO": {
+    "network": "CI",
+    "station": "FHO",
+    "lat": 34.09355,
+    "lon": -116.93588,
+    "elevation": 1614.0
+  },
+  "CI.SLB": {
+    "network": "CI",
+    "station": "SLB",
+    "lat": 33.48519,
+    "lon": -115.86643,
+    "elevation": 0.0
+  },
+  "AZ.KNW": {
+    "network": "AZ",
+    "station": "KNW",
+    "lat": 33.7141,
+    "lon": -116.7119,
+    "elevation": 1507.0
+  },
+  "CI.SRA": {
+    "network": "CI",
+    "station": "SRA",
+    "lat": 34.60601,
+    "lon": -115.94987,
+    "elevation": 338.6
+  },
+  "CI.BAR": {
+    "network": "CI",
+    "station": "BAR",
+    "lat": 32.68005,
+    "lon": -116.67215,
+    "elevation": 529.0
+  },
+  "BC.GUVIX": {
+    "network": "BC",
+    "station": "GUVIX",
+    "lat": 32.3029,
+    "lon": -115.076,
+    "elevation": 10.0
+  },
+  "CI.MCT": {
+    "network": "CI",
+    "station": "MCT",
+    "lat": 34.22645,
+    "lon": -116.04073,
+    "elevation": 661.0
+  },
+  "CI.GMR": {
+    "network": "CI",
+    "station": "GMR",
+    "lat": 34.78457,
+    "lon": -115.65994,
+    "elevation": 1326.0
+  },
+  "CI.SWP": {
+    "network": "CI",
+    "station": "SWP",
+    "lat": 32.79184,
+    "lon": -116.09718,
+    "elevation": 265.0
+  },
+  "CI.SBPX": {
+    "network": "CI",
+    "station": "SBPX",
+    "lat": 34.2324,
+    "lon": -117.23484,
+    "elevation": 1860.0
+  },
+  "PB.B946": {
+    "network": "PB",
+    "station": "B946",
+    "lat": 33.5373,
+    "lon": -116.5925,
+    "elevation": 1429.0
+  },
+  "CI.POB2": {
+    "network": "CI",
+    "station": "POB2",
+    "lat": 33.68708,
+    "lon": -116.92382,
+    "elevation": 999.0
+  },
+  "AZ.SMER": {
+    "network": "AZ",
+    "station": "SMER",
+    "lat": 33.4577,
+    "lon": -117.1708,
+    "elevation": 355.7
+  },
+  "BC.YUCAX": {
+    "network": "BC",
+    "station": "YUCAX",
+    "lat": 32.6054,
+    "lon": -115.0094,
+    "elevation": 0.0
+  },
+  "CI.SNO": {
+    "network": "CI",
+    "station": "SNO",
+    "lat": 34.03515,
+    "lon": -116.80778,
+    "elevation": 2339.0
+  },
+  "CI.PALA": {
+    "network": "CI",
+    "station": "PALA",
+    "lat": 33.38905,
+    "lon": -117.03182,
+    "elevation": 552.0
+  },
+  "CI.RSS": {
+    "network": "CI",
+    "station": "RSS",
+    "lat": 33.97327,
+    "lon": -117.32674,
+    "elevation": 298.0
+  },
+  "CI.RUN": {
+    "network": "CI",
+    "station": "RUN",
+    "lat": 32.97222,
+    "lon": -114.97809,
+    "elevation": 116.0
+  },
+  "CI.BLA2": {
+    "network": "CI",
+    "station": "BLA2",
+    "lat": 34.06931,
+    "lon": -116.38993,
+    "elevation": 1247.0
+  },
+  "CI.CHN": {
+    "network": "CI",
+    "station": "CHN",
+    "lat": 33.99879,
+    "lon": -117.68044,
+    "elevation": 208.0
+  },
+  "CI.LKH": {
+    "network": "CI",
+    "station": "LKH",
+    "lat": 33.23598,
+    "lon": -116.75876,
+    "elevation": 847.0
+  },
+  "CI.OLP": {
+    "network": "CI",
+    "station": "OLP",
+    "lat": 32.60771,
+    "lon": -116.93019,
+    "elevation": 159.0
+  },
+  "CI.LUC2": {
+    "network": "CI",
+    "station": "LUC2",
+    "lat": 34.45638,
+    "lon": -116.96423,
+    "elevation": 886.0
+  },
+  "CI.RVR": {
+    "network": "CI",
+    "station": "RVR",
+    "lat": 33.99351,
+    "lon": -117.37545,
+    "elevation": 266.0
+  },
+  "BC.VTX": {
+    "network": "BC",
+    "station": "VTX",
+    "lat": 31.3914,
+    "lon": -115.784,
+    "elevation": 746.0
+  },
+  "CI.DRE": {
+    "network": "CI",
+    "station": "DRE",
+    "lat": 32.80532,
+    "lon": -115.44679,
+    "elevation": -13.0
+  },
+  "PB.B087": {
+    "network": "PB",
+    "station": "B087",
+    "lat": 33.4955,
+    "lon": -116.602667,
+    "elevation": 1139.0
+  },
+  "CI.LYP": {
+    "network": "CI",
+    "station": "LYP",
+    "lat": 32.70333,
+    "lon": -116.7548,
+    "elevation": 886.4
+  },
+  "PB.B081": {
+    "network": "PB",
+    "station": "B081",
+    "lat": 33.711167,
+    "lon": -116.714167,
+    "elevation": 1467.0
+  },
+  "CI.BC3": {
+    "network": "CI",
+    "station": "BC3",
+    "lat": 33.65515,
+    "lon": -115.45366,
+    "elevation": 1137.0
+  },
+  "PB.B093": {
+    "network": "PB",
+    "station": "B093",
+    "lat": 33.59369,
+    "lon": -116.7641,
+    "elevation": 1229.6
+  },
+  "CI.COA": {
+    "network": "CI",
+    "station": "COA",
+    "lat": 32.86341,
+    "lon": -115.12339,
+    "elevation": 36.0
+  },
+  "CI.WMD": {
+    "network": "CI",
+    "station": "WMD",
+    "lat": 33.03826,
+    "lon": -115.58191,
+    "elevation": -45.0
+  },
+  "CI.DEV": {
+    "network": "CI",
+    "station": "DEV",
+    "lat": 33.93597,
+    "lon": -116.57794,
+    "elevation": 337.0
+  },
+  "BC.DOCTX": {
+    "network": "BC",
+    "station": "DOCTX",
+    "lat": 31.9595,
+    "lon": -114.7452,
+    "elevation": 0.0
+  },
+  "CI.SLR": {
+    "network": "CI",
+    "station": "SLR",
+    "lat": 33.83359,
+    "lon": -116.79737,
+    "elevation": 1567.0
+  },
+  "CI.DGR": {
+    "network": "CI",
+    "station": "DGR",
+    "lat": 33.65001,
+    "lon": -117.00947,
+    "elevation": 650.0
+  },
+  "CI.BEL": {
+    "network": "CI",
+    "station": "BEL",
+    "lat": 34.0006,
+    "lon": -115.9982,
+    "elevation": 1388.0
+  },
+  "CI.DNR": {
+    "network": "CI",
+    "station": "DNR",
+    "lat": 33.56667,
+    "lon": -116.63056,
+    "elevation": 1274.0
+  },
+  "CI.BLY": {
+    "network": "CI",
+    "station": "BLY",
+    "lat": 33.7503,
+    "lon": -114.52375,
+    "elevation": 201.0
+  },
+  "CI.IDY": {
+    "network": "CI",
+    "station": "IDY",
+    "lat": 33.74642,
+    "lon": -116.71536,
+    "elevation": 1632.0
+  },
+  "CI.WWF": {
+    "network": "CI",
+    "station": "WWF",
+    "lat": 33.27884,
+    "lon": -115.57888,
+    "elevation": -61.0
+  },
+  "CI.ELS2": {
+    "network": "CI",
+    "station": "ELS2",
+    "lat": 33.64907,
+    "lon": -117.42604,
+    "elevation": 844.0
+  },
+  "BC.JARAX": {
+    "network": "BC",
+    "station": "JARAX",
+    "lat": 32.5378,
+    "lon": -115.5815,
+    "elevation": 0.0
+  },
+  "CI.MGE": {
+    "network": "CI",
+    "station": "MGE",
+    "lat": 33.81841,
+    "lon": -116.36874,
+    "elevation": 68.0
+  },
+  "CI.SCI2": {
+    "network": "CI",
+    "station": "SCI2",
+    "lat": 32.9799,
+    "lon": -118.54697,
+    "elevation": 199.0
+  },
+  "CI.SRN": {
+    "network": "CI",
+    "station": "SRN",
+    "lat": 33.82854,
+    "lon": -117.78938,
+    "elevation": 208.0
+  },
+  "CI.JPLS": {
+    "network": "CI",
+    "station": "JPLS",
+    "lat": 34.2053,
+    "lon": -118.17368,
+    "elevation": 465.6
+  },
+  "CI.HYS": {
+    "network": "CI",
+    "station": "HYS",
+    "lat": 34.86532,
+    "lon": -117.56975,
+    "elevation": 833.0
+  },
+  "BC.TL2X": {
+    "network": "BC",
+    "station": "TL2X",
+    "lat": 32.4481,
+    "lon": -115.109,
+    "elevation": 15.0
+  },
+  "CI.RMM": {
+    "network": "CI",
+    "station": "RMM",
+    "lat": 34.64384,
+    "lon": -116.62438,
+    "elevation": 1777.0
+  },
+  "CI.CHL": {
+    "network": "CI",
+    "station": "CHL",
+    "lat": 33.910841,
+    "lon": -117.683682,
+    "elevation": 331.9
+  },
+  "CI.MSC": {
+    "network": "CI",
+    "station": "MSC",
+    "lat": 34.03852,
+    "lon": -116.64795,
+    "elevation": 938.0
+  },
+  "CI.IMP": {
+    "network": "CI",
+    "station": "IMP",
+    "lat": 32.90147,
+    "lon": -115.56071,
+    "elevation": -27.0
+  },
+  "BC.ALAMX": {
+    "network": "BC",
+    "station": "ALAMX",
+    "lat": 32.0075,
+    "lon": -115.7083,
+    "elevation": 325.0
+  },
+  "CI.NBS": {
+    "network": "CI",
+    "station": "NBS",
+    "lat": 34.78035,
+    "lon": -116.55798,
+    "elevation": 590.0
+  },
+  "CI.LMS": {
+    "network": "CI",
+    "station": "LMS",
+    "lat": 33.81744,
+    "lon": -117.445,
+    "elevation": 443.0
+  },
+  "CI.IKP": {
+    "network": "CI",
+    "station": "IKP",
+    "lat": 32.65012,
+    "lon": -116.10948,
+    "elevation": 906.0
+  },
+  "CI.PASC": {
+    "network": "CI",
+    "station": "PASC",
+    "lat": 34.17141,
+    "lon": -118.18523,
+    "elevation": 341.0
+  },
+  "CI.CDD": {
+    "network": "CI",
+    "station": "CDD",
+    "lat": 32.58395,
+    "lon": -114.35617,
+    "elevation": 213.6
+  },
+  "CI.HEC": {
+    "network": "CI",
+    "station": "HEC",
+    "lat": 34.8294,
+    "lon": -116.335,
+    "elevation": 920.0
+  },
+  "CI.SMF2": {
+    "network": "CI",
+    "station": "SMF2",
+    "lat": 34.02201,
+    "lon": -118.44627,
+    "elevation": 52.2
+  },
+  "CI.EML": {
+    "network": "CI",
+    "station": "EML",
+    "lat": 32.89083,
+    "lon": -116.84566,
+    "elevation": 161.0
+  },
+  "CI.AVM": {
+    "network": "CI",
+    "station": "AVM",
+    "lat": 35.06562,
+    "lon": -116.61549,
+    "elevation": 708.5
+  },
+  "CI.SVD": {
+    "network": "CI",
+    "station": "SVD",
+    "lat": 34.10647,
+    "lon": -117.09822,
+    "elevation": 605.0
+  },
+  "CI.RHC2": {
+    "network": "CI",
+    "station": "RHC2",
+    "lat": 34.00095,
+    "lon": -118.01333,
+    "elevation": 362.0
+  },
+  "CI.LUS": {
+    "network": "CI",
+    "station": "LUS",
+    "lat": 33.01375,
+    "lon": -117.16305,
+    "elevation": 120.7
+  },
+  "CI.PLM": {
+    "network": "CI",
+    "station": "PLM",
+    "lat": 33.35361,
+    "lon": -116.86265,
+    "elevation": 1691.0
+  },
+  "CI.SWS": {
+    "network": "CI",
+    "station": "SWS",
+    "lat": 32.94508,
+    "lon": -115.79988,
+    "elevation": 140.0
+  },
+  "CI.DZA": {
+    "network": "CI",
+    "station": "DZA",
+    "lat": 32.60657,
+    "lon": -116.77477,
+    "elevation": 554.7
+  },
+  "CI.RPV": {
+    "network": "CI",
+    "station": "RPV",
+    "lat": 33.74346,
+    "lon": -118.40412,
+    "elevation": 107.0
+  },
+  "CI.SBB2": {
+    "network": "CI",
+    "station": "SBB2",
+    "lat": 34.68844,
+    "lon": -117.82424,
+    "elevation": 825.0
+  },
+  "CI.HIW": {
+    "network": "CI",
+    "station": "HIW",
+    "lat": 35.03998,
+    "lon": -115.38423,
+    "elevation": 1276.89
+  },
+  "PB.B086": {
+    "network": "PB",
+    "station": "B086",
+    "lat": 33.5575,
+    "lon": -116.531,
+    "elevation": 1392.0
+  },
+  "CI.SOC": {
+    "network": "CI",
+    "station": "SOC",
+    "lat": 33.38761,
+    "lon": -117.58013,
+    "elevation": 52.0
+  },
+  "CI.IRM": {
+    "network": "CI",
+    "station": "IRM",
+    "lat": 34.15738,
+    "lon": -115.14513,
+    "elevation": 567.0
+  },
+  "CI.RCR": {
+    "network": "CI",
+    "station": "RCR",
+    "lat": 33.36237,
+    "lon": -116.3096,
+    "elevation": 193.0
+  },
+  "AZ.LVA2": {
+    "network": "AZ",
+    "station": "LVA2",
+    "lat": 33.3516,
+    "lon": -116.5615,
+    "elevation": 1435.0
+  },
+  "BC.TJX": {
+    "network": "BC",
+    "station": "TJX",
+    "lat": 32.51017,
+    "lon": -117.0543,
+    "elevation": 210.0
+  },
+  "CI.ADO": {
+    "network": "CI",
+    "station": "ADO",
+    "lat": 34.55046,
+    "lon": -117.43391,
+    "elevation": 908.0
+  },
+  "CI.THM": {
+    "network": "CI",
+    "station": "THM",
+    "lat": 33.65066,
+    "lon": -116.07734,
+    "elevation": 60.0
+  },
+  "CI.HLL": {
+    "network": "CI",
+    "station": "HLL",
+    "lat": 34.17643,
+    "lon": -118.35967,
+    "elevation": 193.0
+  },
+  "CI.JEM": {
+    "network": "CI",
+    "station": "JEM",
+    "lat": 33.08098,
+    "lon": -116.59755,
+    "elevation": 1308.0
+  },
+  "CI.DAN": {
+    "network": "CI",
+    "station": "DAN",
+    "lat": 34.63745,
+    "lon": -115.38115,
+    "elevation": 428.0
+  },
+  "CI.LGB": {
+    "network": "CI",
+    "station": "LGB",
+    "lat": 33.9753,
+    "lon": -118.14918,
+    "elevation": 42.0
+  },
+  "CI.DLA": {
+    "network": "CI",
+    "station": "DLA",
+    "lat": 33.84822,
+    "lon": -118.09624,
+    "elevation": 14.0
+  },
+  "CI.TOR": {
+    "network": "CI",
+    "station": "TOR",
+    "lat": 33.57526,
+    "lon": -116.22584,
+    "elevation": 4.0
+  },
+  "CI.CTC": {
+    "network": "CI",
+    "station": "CTC",
+    "lat": 33.65516,
+    "lon": -115.99006,
+    "elevation": 538.0
+  },
+  "CI.FRK": {
+    "network": "CI",
+    "station": "FRK",
+    "lat": 33.40209,
+    "lon": -115.63835,
+    "elevation": 95.47
+  },
+  "CI.RUS": {
+    "network": "CI",
+    "station": "RUS",
+    "lat": 34.05075,
+    "lon": -118.08078,
+    "elevation": 70.0
+  },
+  "CI.HMT2": {
+    "network": "CI",
+    "station": "HMT2",
+    "lat": 33.708115,
+    "lon": -117.001524,
+    "elevation": 593.0
+  },
+  "AZ.PFO": {
+    "network": "AZ",
+    "station": "PFO",
+    "lat": 33.6117,
+    "lon": -116.4594,
+    "elevation": 1259.0
+  },
+  "BC.CBX": {
+    "network": "BC",
+    "station": "CBX",
+    "lat": 32.3131,
+    "lon": -116.6636,
+    "elevation": 1250.0
+  },
+  "CI.BOR": {
+    "network": "CI",
+    "station": "BOR",
+    "lat": 33.2682,
+    "lon": -116.41716,
+    "elevation": 252.0
+  },
+  "CI.MUR": {
+    "network": "CI",
+    "station": "MUR",
+    "lat": 33.59999,
+    "lon": -117.19543,
+    "elevation": 562.0
+  },
+  "CI.DPP": {
+    "network": "CI",
+    "station": "DPP",
+    "lat": 32.99889,
+    "lon": -116.94187,
+    "elevation": 463.0
+  },
+  "CI.SLV": {
+    "network": "CI",
+    "station": "SLV",
+    "lat": 33.23854,
+    "lon": -115.30436,
+    "elevation": 254.6
+  },
+  "CI.STS": {
+    "network": "CI",
+    "station": "STS",
+    "lat": 33.79033,
+    "lon": -118.19878,
+    "elevation": 4.0
+  },
+  "CI.PSD": {
+    "network": "CI",
+    "station": "PSD",
+    "lat": 33.82393,
+    "lon": -116.55026,
+    "elevation": 144.0
+  },
+  "CI.PER": {
+    "network": "CI",
+    "station": "PER",
+    "lat": 33.86164,
+    "lon": -117.20529,
+    "elevation": 468.0
+  },
+  "CI.BRE": {
+    "network": "CI",
+    "station": "BRE",
+    "lat": 33.80776,
+    "lon": -117.98116,
+    "elevation": 24.0
+  },
+  "PB.B084": {
+    "network": "PB",
+    "station": "B084",
+    "lat": 33.61157,
+    "lon": -116.45637,
+    "elevation": 1271.0
+  },
+  "CI.RIO": {
+    "network": "CI",
+    "station": "RIO",
+    "lat": 34.10473,
+    "lon": -117.97956,
+    "elevation": 118.0
+  },
+  "TA.109C": {
+    "network": "TA",
+    "station": "109C",
+    "lat": 32.888901,
+    "lon": -117.105103,
+    "elevation": 150.0
+  },
+  "AZ.WMC": {
+    "network": "AZ",
+    "station": "WMC",
+    "lat": 33.5736,
+    "lon": -116.6747,
+    "elevation": 1271.0
+  },
+  "CI.DJJ": {
+    "network": "CI",
+    "station": "DJJ",
+    "lat": 34.10618,
+    "lon": -118.45505,
+    "elevation": 268.0
+  },
+  "CI.DSN6": {
+    "network": "CI",
+    "station": "DSN6",
+    "lat": 34.17141,
+    "lon": -118.18523,
+    "elevation": 341.0
+  },
+  "CI.FMP": {
+    "network": "CI",
+    "station": "FMP",
+    "lat": 33.71264,
+    "lon": -118.29381,
+    "elevation": 89.0
+  },
+  "AZ.TRO": {
+    "network": "AZ",
+    "station": "TRO",
+    "lat": 33.5234,
+    "lon": -116.4257,
+    "elevation": 2628.0
+  },
+  "CI.PDR": {
+    "network": "CI",
+    "station": "PDR",
+    "lat": 33.96273,
+    "lon": -118.43702,
+    "elevation": 45.0
+  },
+  "CI.HAY": {
+    "network": "CI",
+    "station": "HAY",
+    "lat": 33.70734,
+    "lon": -115.63889,
+    "elevation": 458.0
+  },
+  "CI.RAG": {
+    "network": "CI",
+    "station": "RAG",
+    "lat": 34.68289,
+    "lon": -116.15139,
+    "elevation": 722.0
+  },
+  "CI.WSS": {
+    "network": "CI",
+    "station": "WSS",
+    "lat": 34.1717,
+    "lon": -118.64971,
+    "elevation": 316.0
+  },
+  "CI.ERR": {
+    "network": "CI",
+    "station": "ERR",
+    "lat": 33.11675,
+    "lon": -115.82267,
+    "elevation": -56.0
+  },
+  "CI.DEC": {
+    "network": "CI",
+    "station": "DEC",
+    "lat": 34.25353,
+    "lon": -118.33383,
+    "elevation": 519.0
+  },
+  "CI.EDW2": {
+    "network": "CI",
+    "station": "EDW2",
+    "lat": 34.8811,
+    "lon": -117.99388,
+    "elevation": 772.0
+  },
+  "CI.RIN": {
+    "network": "CI",
+    "station": "RIN",
+    "lat": 34.28196,
+    "lon": -118.47925,
+    "elevation": 304.0
+  },
+  "CI.WES": {
+    "network": "CI",
+    "station": "WES",
+    "lat": 32.75904,
+    "lon": -115.73161,
+    "elevation": -8.0
+  },
+  "AZ.CRY": {
+    "network": "AZ",
+    "station": "CRY",
+    "lat": 33.5654,
+    "lon": -116.7373,
+    "elevation": 1128.0
+  },
+  "CI.JVA": {
+    "network": "CI",
+    "station": "JVA",
+    "lat": 34.36622,
+    "lon": -116.61266,
+    "elevation": 904.0
+  },
+  "CI.BFS": {
+    "network": "CI",
+    "station": "BFS",
+    "lat": 34.23883,
+    "lon": -117.65853,
+    "elevation": 1312.0
+  },
+  "CI.LLS": {
+    "network": "CI",
+    "station": "LLS",
+    "lat": 33.68447,
+    "lon": -117.94304,
+    "elevation": 8.0
+  },
+  "CI.BTC": {
+    "network": "CI",
+    "station": "BTC",
+    "lat": 33.01213,
+    "lon": -115.21987,
+    "elevation": 39.0
+  },
+  "CI.SDR": {
+    "network": "CI",
+    "station": "SDR",
+    "lat": 32.73561,
+    "lon": -116.94241,
+    "elevation": 113.0
+  },
+  "CI.PLS": {
+    "network": "CI",
+    "station": "PLS",
+    "lat": 33.7953,
+    "lon": -117.60906,
+    "elevation": 1199.0
+  },
+  "CI.SMS": {
+    "network": "CI",
+    "station": "SMS",
+    "lat": 34.01438,
+    "lon": -118.45617,
+    "elevation": 43.0
+  },
+  "CI.RRX": {
+    "network": "CI",
+    "station": "RRX",
+    "lat": 34.87499,
+    "lon": -116.99681,
+    "elevation": 676.2
+  },
+  "AZ.MONP2": {
+    "network": "AZ",
+    "station": "MONP2",
+    "lat": 32.892,
+    "lon": -116.4223,
+    "elevation": 1875.0
+  },
+  "CI.TA2": {
+    "network": "CI",
+    "station": "TA2",
+    "lat": 34.38203,
+    "lon": -117.67822,
+    "elevation": 2249.0
+  },
+  "AZ.CPE": {
+    "network": "AZ",
+    "station": "CPE",
+    "lat": 32.8889,
+    "lon": -117.1051,
+    "elevation": 150.0
+  },
+  "AZ.SOL": {
+    "network": "AZ",
+    "station": "SOL",
+    "lat": 32.841,
+    "lon": -117.248,
+    "elevation": 245.0
+  },
+  "CI.NEE2": {
+    "network": "CI",
+    "station": "NEE2",
+    "lat": 34.76759,
+    "lon": -114.61881,
+    "elevation": 271.0
+  },
+  "CI.OLI": {
+    "network": "CI",
+    "station": "OLI",
+    "lat": 33.94539,
+    "lon": -117.92372,
+    "elevation": 162.0
+  },
+  "CI.DVT": {
+    "network": "CI",
+    "station": "DVT",
+    "lat": 32.65915,
+    "lon": -116.10061,
+    "elevation": 881.0
+  },
+  "AZ.BZN": {
+    "network": "AZ",
+    "station": "BZN",
+    "lat": 33.4915,
+    "lon": -116.667,
+    "elevation": 1301.0
+  },
+  "CI.PDM": {
+    "network": "CI",
+    "station": "PDM",
+    "lat": 34.30336,
+    "lon": -114.14152,
+    "elevation": 144.0
+  },
+  "CI.PDU": {
+    "network": "CI",
+    "station": "PDU",
+    "lat": 34.1207,
+    "lon": -117.63808,
+    "elevation": 445.0
+  },
+  "CI.CAP": {
+    "network": "CI",
+    "station": "CAP",
+    "lat": 33.38822,
+    "lon": -117.19495,
+    "elevation": 285.0
+  },
+  "CI.RXH": {
+    "network": "CI",
+    "station": "RXH",
+    "lat": 33.18313,
+    "lon": -115.62257,
+    "elevation": -59.0
+  },
+  "CI.JCS": {
+    "network": "CI",
+    "station": "JCS",
+    "lat": 33.0859,
+    "lon": -116.5959,
+    "elevation": 1264.0
+  },
+  "CI.MLS": {
+    "network": "CI",
+    "station": "MLS",
+    "lat": 34.0046,
+    "lon": -117.56162,
+    "elevation": 230.0
+  },
+  "AZ.MONP": {
+    "network": "AZ",
+    "station": "MONP",
+    "lat": 32.8927,
+    "lon": -116.4225,
+    "elevation": 1920.0
+  },
+  "AZ.FRD": {
+    "network": "AZ",
+    "station": "FRD",
+    "lat": 33.4947,
+    "lon": -116.6022,
+    "elevation": 1164.0
+  },
+  "AZ.YAQ": {
+    "network": "AZ",
+    "station": "YAQ",
+    "lat": 33.1666,
+    "lon": -116.3539,
+    "elevation": 430.0
+  },
+  "CI.NEE": {
+    "network": "CI",
+    "station": "NEE",
+    "lat": 34.8249,
+    "lon": -114.59941,
+    "elevation": 170.0
+  },
+  "CI.PMD": {
+    "network": "CI",
+    "station": "PMD",
+    "lat": 33.64785,
+    "lon": -116.37769,
+    "elevation": 296.0
+  },
+  "NR.NE70": {
+    "network": "NR",
+    "station": "NE70",
+    "lat": 32.42095,
+    "lon": -115.26078,
+    "elevation": -23.0
+  },
+  "CI.GOR": {
+    "network": "CI",
+    "station": "GOR",
+    "lat": 33.1537,
+    "lon": -117.22921,
+    "elevation": 138.0
+  },
+  "CI.CLT": {
+    "network": "CI",
+    "station": "CLT",
+    "lat": 34.09284,
+    "lon": -117.31687,
+    "elevation": 325.0
+  },
+  "CI.BLA": {
+    "network": "CI",
+    "station": "BLA",
+    "lat": 34.06948,
+    "lon": -116.38896,
+    "elevation": 1243.0
+  },
+  "AZ.HWB": {
+    "network": "AZ",
+    "station": "HWB",
+    "lat": 33.0262,
+    "lon": -116.9596,
+    "elevation": 478.0
+  },
+  "CI.TOV": {
+    "network": "CI",
+    "station": "TOV",
+    "lat": 34.15607,
+    "lon": -118.82039,
+    "elevation": 298.0
+  },
+  "CI.LUG": {
+    "network": "CI",
+    "station": "LUG",
+    "lat": 34.3656,
+    "lon": -117.36683,
+    "elevation": 1140.0
+  },
+  "CI.LMR2": {
+    "network": "CI",
+    "station": "LMR2",
+    "lat": 34.93439,
+    "lon": -117.69629,
+    "elevation": 964.0
+  },
+  "CI.LAF": {
+    "network": "CI",
+    "station": "LAF",
+    "lat": 33.86889,
+    "lon": -118.33143,
+    "elevation": 20.0
+  },
+  "CI.THX": {
+    "network": "CI",
+    "station": "THX",
+    "lat": 33.63495,
+    "lon": -116.16402,
+    "elevation": -31.0
+  },
+  "CI.SPF": {
+    "network": "CI",
+    "station": "SPF",
+    "lat": 34.05933,
+    "lon": -118.64614,
+    "elevation": 470.0
+  },
+  "CI.ALP": {
+    "network": "CI",
+    "station": "ALP",
+    "lat": 34.68708,
+    "lon": -118.29946,
+    "elevation": 753.0
+  },
+  "CI.CCC": {
+    "network": "CI",
+    "station": "CCC",
+    "lat": 35.52495,
+    "lon": -117.36453,
+    "elevation": 670.0
+  },
+  "CI.ARV": {
+    "network": "CI",
+    "station": "ARV",
+    "lat": 35.1269,
+    "lon": -118.83009,
+    "elevation": 258.0
+  },
+  "CI.CIA": {
+    "network": "CI",
+    "station": "CIA",
+    "lat": 33.401898,
+    "lon": -118.415021,
+    "elevation": 477.0
+  },
+  "CI.WBS": {
+    "network": "CI",
+    "station": "WBS",
+    "lat": 35.53664,
+    "lon": -118.14035,
+    "elevation": 1927.0
+  },
+  "CI.BTP": {
+    "network": "CI",
+    "station": "BTP",
+    "lat": 34.68224,
+    "lon": -118.57398,
+    "elevation": 1702.0
+  }
+}
